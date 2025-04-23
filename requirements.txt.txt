@@ -1,0 +1,5 @@
+os
+pandas
+PyPDF2
+re
+streamlit
